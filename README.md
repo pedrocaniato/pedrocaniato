@@ -8,11 +8,11 @@
 ---
 
 ### 💻 Sobre mim
-[cite_start]Desenvolvedor **Full Stack** focado no ecossistema JavaScript/TypeScript e automação com Python[cite: 10, 47]. [cite_start]Atualmente atuando como mentor técnico e construindo soluções escaláveis[cite: 11, 27].
+Desenvolvedor **Full Stack** focado no ecossistema JavaScript/TypeScript e automação com Python. Atualmente atuando como mentor técnico e construindo soluções escaláveis.
 
-- [cite_start]🚀 Atualmente focado em **React, Next.js e Node.js**[cite: 10, 16].
-- [cite_start]🧠 Integrando **Inteligência Artificial** em sistemas de gestão[cite: 37].
-- [cite_start]🎓 Cursando **Sistemas de Informação**[cite: 14].
+- 🚀 Atualmente focado em **React, Next.js e Node.js**.
+- 🧠 Integrando **Inteligência Artificial** em sistemas de gestão.
+- 🎓 Cursando **Sistemas de Informação**.
 
 ---
 
