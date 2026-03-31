@@ -5,6 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocaniato&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Langs" height="180em" />
 </p>
 
+
 ---
 
 ### 💻 Sobre mim
