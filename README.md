@@ -11,11 +11,11 @@
 ---
 
 ### 💻 Sobre mim
-[cite_start]Desenvolvedor **Full Stack** especializado no ecossistema JavaScript (React, Next.js, Node.js) e TypeScript[cite: 61]. [cite_start]Focado em arquitetura limpa e entrega de impacto real para o negócio[cite: 63].
+Desenvolvedor **Full Stack** especializado no ecossistema JavaScript (React, Next.js, Node.js) e TypeScript. Focado em arquitetura limpa e entrega de impacto real para o negócio.
 
-- [cite_start]🚀 Atualmente focado em **React, Next.js e Node.js**[cite: 95, 96].
-- [cite_start]🧠 Implementando camadas de **Inteligência Artificial** para automação e análise de dados[cite: 86].
-- [cite_start]🎓 Cursando **Sistemas de Informação**[cite: 65].
+- 🚀 Atualmente focado em **React, Next.js e Node.js**.
+- 🧠 Implementando camadas de **Inteligência Artificial** para automação e análise de dados.
+- 🎓 Cursando **Sistemas de Informação**.
 
 ---
 
@@ -32,7 +32,9 @@
 ---
 
 ### 📊 Atividade Geral
-[![](https://github-readme-activity-graph.vercel.app/graph?username=pedrocaniato&theme=tokyonight&area=true)](https://github.com/pedrocaniato)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrocaniato&theme=tokyonight&area=true" alt="Activity Graph" />
+</p>
 
 ---
 
